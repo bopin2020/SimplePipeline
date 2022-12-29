@@ -1,0 +1,8 @@
+D:\Tmp\csharp_demo\SimplePipeline\bin\Debug\SimplePipeline.exe.config
+D:\Tmp\csharp_demo\SimplePipeline\bin\Debug\SimplePipeline.exe
+D:\Tmp\csharp_demo\SimplePipeline\bin\Debug\SimplePipeline.pdb
+D:\Tmp\csharp_demo\SimplePipeline\obj\Debug\SimplePipeline.csproj.AssemblyReference.cache
+D:\Tmp\csharp_demo\SimplePipeline\obj\Debug\SimplePipeline.csproj.SuggestedBindingRedirects.cache
+D:\Tmp\csharp_demo\SimplePipeline\obj\Debug\SimplePipeline.csproj.CoreCompileInputs.cache
+D:\Tmp\csharp_demo\SimplePipeline\obj\Debug\SimplePipeline.exe
+D:\Tmp\csharp_demo\SimplePipeline\obj\Debug\SimplePipeline.pdb
